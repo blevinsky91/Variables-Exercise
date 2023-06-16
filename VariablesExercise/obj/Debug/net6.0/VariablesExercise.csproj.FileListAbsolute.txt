@@ -1,0 +1,15 @@
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.AssemblyReference.cache
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/Users/brandonlevinsky/Desktop/Repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
